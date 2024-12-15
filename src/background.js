@@ -2,7 +2,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
         id: "Quick_Search_NFT_on_MSU_Marketplace",
-        title: "Quick Search NFT on MSU Marketplace",
+        title: chrome.i18n.getMessage("menuTitle"),
         contexts: ["selection"],
         documentUrlPatterns: [ "https://msu.io/marketplace/*" ]
     });

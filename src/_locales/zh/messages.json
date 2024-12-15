@@ -1,0 +1,8 @@
+{
+  "appDescription" : {
+    "message" : "這個 Chrome 擴充功能在選單新增了一個選項，可以在 MSU Marketplace 上快速搜尋選定的 NFT 項目。"
+  },
+  "menuTitle" : {
+    "message" : "在 MSU Marketplace 上快速搜尋 NFT"
+  }
+}
