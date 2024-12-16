@@ -3,6 +3,6 @@
     "message" : "This Chrome extension adds a context menu option to quickly search for selected NFT items on the MSU Marketplace."
   },
   "menuTitle" : {
-    "message" : "Quick Search NFT on MSU Marketplace"
+    "message" : "Quick Search NFT on MSU Marketplace (&Q)"
   }
 }
